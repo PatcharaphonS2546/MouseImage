@@ -1,1 +1,1 @@
-Please install follow by requiment.txt
+Please install follow by requirement.txt
